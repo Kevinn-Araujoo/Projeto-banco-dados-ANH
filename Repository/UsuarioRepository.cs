@@ -20,7 +20,7 @@ namespace Segundo_App_BancoDados.Repository
 
         public void Cadastrar(Usuario usuario)
         {
-            //using (var conexao = new MySqlConnection(_conexaoMySQL))
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
                 conexao.Open();
 
