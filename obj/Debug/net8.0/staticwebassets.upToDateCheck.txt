@@ -1,3 +1,4 @@
+wwwroot\Banco\Script_Usuario.sql
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
